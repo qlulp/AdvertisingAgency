@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\obj\Debug\AdvertisingAgency.MainForm.resources
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\obj\Debug\AdvertisingAgency.Forms.TablesForms.ClientsForm.resources
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\obj\Debug\AdvertisingAgency.Properties.Resources.resources
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\obj\Debug\AdvertisingAgency.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\obj\Debug\AdvertisingAgency.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\bin\Debug\AdvertisingAgency.exe.config
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\bin\Debug\AdvertisingAgency.exe
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\bin\Debug\AdvertisingAgency.pdb
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\obj\Debug\AdvertisingAgency.exe
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\obj\Debug\AdvertisingAgency.pdb
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\obj\Debug\AdvertisingAgency.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\obj\Debug\AdvertisingAgency.Forms.Tables.CooperatorsForm.resources
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\obj\Debug\AdvertisingAgency.Forms.Tables.OrdersForm.resources
+C:\Users\Admin\source\repos\AdvertisingAgency\AdvertisingAgency\obj\Debug\AdvertisingAgency.Forms.Tables.ServicesForm.resources
